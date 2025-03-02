@@ -3,6 +3,7 @@
 [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Turborepo](https://img.shields.io/badge/Turborepo-EF4444.svg?style=for-the-badge&logo=turborepo&logoColor=white)](https://turbo.build)
+[![Biome](https://img.shields.io/badge/Biome-60A5FA.svg?style=for-the-badge&logo=biome&logoColor=white)](https://biomejs.dev)
 
 A modern, high-performance monorepo template powered by Bun and Turborepo, featuring shared Tailwind configuration for consistent styling across all applications.
 
