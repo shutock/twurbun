@@ -1,0 +1,24 @@
+{
+	"name": "@configs/tailwind",
+	"version": "0.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "tailwindcss -i ./styles.css -o ./dist/styles.css",
+		"dev": "tailwindcss -i ./styles.css -o ./dist/styles.css --watch"
+	},
+	"sideEffects": ["**/*.css"],
+	"files": ["dist"],
+	"exports": {
+		".": "./config.ts",
+		"./styles.css": "./styles.css"
+	},
+	"dependencies": {
+		"@tailwindcss/cli": "^4.0.9",
+		"@tailwindcss/postcss": "^4.0.9"
+	},
+	"devDependencies": {
+		"@configs/typescript": "*",
+		"tailwindcss": "^4.0.9"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"editor.defaultFormatter": "biomejs.biome",
+	"files.exclude": {
+		// "**/.git": true,
+		// "**/.svn": true,
+		// "**/.hg": true,
+		// "**/CVS": true,
+		// "**/.DS_Store": true,
+		// "**/Thumbs.db": true,
+		// "**/node_modules": true,
+		// "**/.turbo": true,
+		// "**/.next": true,
+		// "**/dist": true,
+		// "**/next-env.d.ts": true,
+		// "**/*lock*": true
+	}
+}
