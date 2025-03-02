@@ -59,7 +59,7 @@ bun dev
 ## 🛠️ Available Commands
 
 - `bun dev` - Start development servers for all applications
-- `bun build` - Build all applications and packages
+- `bun run build` - Build all applications and packages
 
 ## 🔧 Using the Template
 
